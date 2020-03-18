@@ -1,0 +1,2 @@
+# scaffolding
+Project scaffolding templates
